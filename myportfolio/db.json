@@ -1,0 +1,69 @@
+{
+	"users": [
+		{
+			"email": "phuclq0911@gmail.com",
+			"password": "$2a$10$nt74ak1B.BrGdhj6Ftuqt.v.Sg07ZsqP0Lx8Ut/aZTaw6hq6J3A7C",
+			"id": 1
+		}
+	],
+	"information": {
+		"fullname": "Quang Phuc",
+		"positions": ["Frond-end", "Back-end"],
+		"linkCv": "https://www.topcv.vn/xem-cv/AgQAU1RSCFwCB1pRBwFWBFJQBlkMAlJVBgEKUg81cd",
+		"linkGit": "https://github.com/PhucLQ0911",
+		"linkFb": "https://www.facebook.com/quangphuc.0911/",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repudiandae perferendis corporis dolor tempora suscipit"
+	},
+	"specializing": [
+		{
+			"id": 1,
+			"title": "Front-end Developer",
+			"linkImg": "./src/images/skill-fe.svg",
+			"skills": "HTML, CSS, JS, ReactJS"
+		},
+		{
+			"id": 2,
+			"title": "Back-end Developer",
+			"linkImg": "./src/images/skill-ui.svg",
+			"skills": "Java, PHP, NodeJs"
+		}
+	],
+	"projects": [
+		{
+			"id": 1,
+			"title": "Need Food App Design",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repudiandae perferendis corporis dolor tempora suscipit",
+			"linkDemo": "https://github.com/PhucLQ0911",
+			"linkImg": "./src/images/project1.png",
+			"linkCode": "https://github.com/PhucLQ0911"
+		},
+		{
+			"id": 2,
+			"title": "Cafe Street Web Design",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repudiandae perferendis corporis dolor tempora suscipit",
+			"linkDemo": "https://github.com/PhucLQ0911",
+			"linkImg": "./src/images/project2.png",
+			"linkCode": "https://github.com/PhucLQ0911"
+		},
+		{
+			"id": 3,
+			"title": "Travel App Design",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repudiandae perferendis corporis dolor tempora suscipit",
+			"linkDemo": "https://github.com/PhucLQ0911",
+			"linkImg": "./src/images/project3.png",
+			"linkCode": "https://github.com/PhucLQ0911"
+		}
+	],
+	"contacts": [
+		{
+			"id": 1,
+			"title": "Phone",
+			"value": "0365673999"
+		},
+		{
+			"id": 2,
+			"title": "Email",
+			"value": "phuclq0911@gmail.com"
+		}
+	]
+}

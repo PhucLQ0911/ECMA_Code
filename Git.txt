@@ -1,0 +1,15 @@
+Làm việc nhóm với git
+- Tạo 1 project clone từ git về : git clone
+- Kéo code về (Sau khi đã clone) : git pull origin -tennhanh (Có code mới trên git và merge với code trên máy)
+- Chuyển và tạo mới branch : git checkout -b 'ten branch'
+- Kiểm tra xem đang ở branch nào : git brach
+- Đẩy code lên branch : git push origin 'ten branch'
+- Muốn đổi branch mà không tạo mới : git checkout 'ten branch'
+- Khi bị conflict thì sử dụng git pull về trước và chọn đoạn cần giữ lại. 
+	Sau đó push code như bình thường
+
+Các bước đây code lên :
+git add .
+git commit -m 'Noi dung'
+git remote add origin git@github.com:PhucLQ0911/hehe.git
+git push -u origin 'ten branch'
